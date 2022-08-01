@@ -1,0 +1,11 @@
+{
+    "emmet.excludeLanguages": [
+        "xsl",
+        "xslt"
+    ],
+    "git.ignoreLimitWarning": true,
+    "git.enabled": false,
+    "git.fetchOnPull": false,
+    "scm.repositories.sortOrder": "discovery time",
+    "terminal.integrated.shellIntegration.enabled": false
+}
